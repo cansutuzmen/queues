@@ -1,2 +1,2 @@
-# Queue
+# Queues
 HackerRank Queue Problems
